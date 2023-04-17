@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+.debug *{
+    font-family: 'Oxygen', sans-ser 
+}
+    
+.centered{
+    max-width: 500px;
+    margin: 5rem auto;
+    
+    border: 1px gray solid;
+    border-radius: 20px;
+    
+    padding: 10px 10px;
+    
+    text-align: cent    
+}
+    
+.centered h1{
+    padding-bottom: 1rem;
+}
+    
+.centered div{
+    padding: 10px 0;
+}
+    
+.centered button,
+.centered input,
+.centered textarea{
+    padding: 10px 15px;
+    border-radius: 20px;
+    border: gray 1px solid;
+}
+    
+    
+.centered .text h4{
+    padding: 10px 0;
+}
+    
+.centered .result{
+    font-size: 15px;
+    color: gray
+}     
